@@ -6,6 +6,6 @@ int main(){
     cin >> Long;
     int Ma;
     Ma = Long * 220;
-    cout << Long << "米等于" << Ma << "码" << endl;
+    cout << Long << "的长度等于" << Ma << "码" << endl;
     return 0;
 }
