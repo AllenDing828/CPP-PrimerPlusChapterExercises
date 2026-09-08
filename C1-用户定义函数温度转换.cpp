@@ -3,6 +3,7 @@
  int Huashi(int);
  int main(){
     int Sheshi;
+    cout<<"请输入摄氏度数：";
     cin>>Sheshi;
     Huashi(Sheshi);
     cout<<Sheshi<<"摄氏度等于"<<Huashi(Sheshi)<<"华氏度"<<endl;
